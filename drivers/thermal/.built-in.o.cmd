@@ -1,0 +1,1 @@
+cmd_drivers/thermal/built-in.o :=  /opt/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/thermal/built-in.o drivers/thermal/thermal-uclass.o drivers/thermal/imx_thermal.o 

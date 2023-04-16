@@ -1,0 +1,3 @@
+efi_bootmgr.c:43:14:get_var.constprop	32	static
+efi_bootmgr.c:77:21:try_load_entry	120	static
+efi_bootmgr.c:163:14:efi_bootmgr_load	48	static

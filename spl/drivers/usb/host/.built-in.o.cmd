@@ -1,0 +1,1 @@
+cmd_spl/drivers/usb/host/built-in.o :=  /opt/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o spl/drivers/usb/host/built-in.o spl/drivers/usb/host/ehci-hcd.o spl/drivers/usb/host/ehci-mx6.o 

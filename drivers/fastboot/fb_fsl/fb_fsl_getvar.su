@@ -1,0 +1,4 @@
+fb_fsl_getvar.c:100:12:strcmp_l1	16	static
+fb_fsl_getvar.c:164:12:get_single_var	64	static
+fb_fsl_getvar.c:125:7:get_serial	0	static
+fb_fsl_getvar.c:469:6:fastboot_getvar	752	static

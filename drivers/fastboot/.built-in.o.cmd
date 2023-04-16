@@ -1,0 +1,1 @@
+cmd_drivers/fastboot/built-in.o :=  /opt/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o drivers/fastboot/built-in.o drivers/fastboot/fb_common.o drivers/fastboot/fb_fsl/built-in.o 

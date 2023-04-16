@@ -1,0 +1,2 @@
+exception_level.c:28:13:entry_non_secure	8	static
+exception_level.c:43:6:switch_to_non_secure_mode	56	static

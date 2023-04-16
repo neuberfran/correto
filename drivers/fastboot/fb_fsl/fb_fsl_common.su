@@ -1,0 +1,6 @@
+fb_fsl_common.c:406:13:fastboot_puts	96	static
+fb_fsl_common.c:396:13:fastboot_putc	16	static
+fb_fsl_common.c:93:5:get_block_size	24	static
+fb_fsl_common.c:119:6:fastboot_none_resp	0	static
+fb_fsl_common.c:124:6:board_fastboot_setup	8	static
+fb_fsl_common.c:365:6:fastboot_setup	40	static

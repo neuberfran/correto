@@ -1,0 +1,9 @@
+soc.c:153:5:get_cpu_rev	0	static
+soc.c:334:6:is_usb_boot	0	static
+soc.c:342:5:arch_cpu_init	16	static
+soc.c:379:5:arch_misc_init	16	static
+soc.c:433:6:set_wdog_reset	0	static
+soc.c:451:6:s_init	0	static
+soc.c:471:5:boot_mode_getprisec	0	static
+soc.c:479:6:reset_misc	0	static
+soc.c:502:6:reset_cpu	0	static

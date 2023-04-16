@@ -1,0 +1,14 @@
+psci-mx7.c:151:15:imx_gpcv2_set_core_power	0	static
+psci-mx7.c:171:15:imx_enable_cpu_ca7	0	static
+psci-mx7.c:181:15:psci_arch_cpu_entry	8	static
+psci-mx7.c:188:14:psci_cpu_on	16	static
+psci-mx7.c:217:14:psci_cpu_off	8	static
+psci-mx7.c:238:15:psci_system_reset	0	static
+psci-mx7.c:251:15:psci_system_off	0	static
+psci-mx7.c:266:14:psci_version	0	static
+psci-mx7.c:271:14:psci_cpu_suspend	0	static
+psci-mx7.c:278:14:psci_affinity_info	16	static
+psci-mx7.c:303:14:psci_migrate_info_type	0	static
+psci-mx7.c:309:14:psci_features	0	static
+psci-mx7.c:549:15:imx_system_resume	40	static
+psci-mx7.c:601:15:psci_system_suspend	32	static

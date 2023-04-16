@@ -1,0 +1,2 @@
+ddr.c:28:6:mx7_dram_cfg	24	static
+ddr.c:137:14:imx_ddr_size	0	static

@@ -1,0 +1,17 @@
+video_link.c:40:8:ofnode_get_child_by_name	16	static
+video_link.c:59:8:ofnode_graph_get_next_endpoint	16	static
+video_link.c:125:5:ofnode_graph_get_endpoint_count	16	static
+video_link.c:136:5:ofnode_graph_parse_endpoint	24	static
+video_link.c:154:8:ofnode_graph_get_endpoint_by_regs	40	static
+video_link.c:173:8:ofnode_graph_get_remote_endpoint	16	static
+video_link.c:194:8:ofnode_graph_get_port_parent	16	static
+video_link.c:216:8:ofnode_graph_get_remote_port_parent	8	static
+video_link.c:228:5:find_device_by_ofnode	16	static
+video_link.c:284:13:video_link_add_node	40	static
+video_link.c:325:17:video_link_get_next_device	24	static
+video_link.c:357:17:video_link_get_video_device	24	static
+video_link.c:424:13:list_videolink	40	static
+video_link.c:459:12:do_videolink	8	static
+video_link.c:378:5:video_link_get_display_timings	32	static
+video_link.c:479:5:video_link_init	32	static
+video_link.c:531:5:video_link_shut_down	8	static

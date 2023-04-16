@@ -1,0 +1,5 @@
+splash.c:59:5:splash_video_logo_load	8	static
+splash.c:83:12:splash_screen_prepare	0	static
+splash.c:93:6:splash_get_pos	16	static
+splash.c:124:6:splash_display_banner	216	static
+splash.c:155:5:splash_display	24	static

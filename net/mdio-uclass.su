@@ -1,0 +1,10 @@
+mdio-uclass.c:70:12:mdio_read	4	static
+mdio-uclass.c:77:12:mdio_write	8	static
+mdio-uclass.c:85:12:mdio_reset	0	static
+mdio-uclass.c:109:12:dm_mdio_pre_remove	16	static
+mdio-uclass.c:95:12:dm_mdio_post_probe	16	static
+mdio-uclass.c:39:12:dm_mdio_post_bind	8	static
+mdio-uclass.c:28:6:dm_mdio_probe_devices	16	static
+mdio-uclass.c:122:20:dm_mdio_phy_connect	24	static
+mdio-uclass.c:189:20:dm_eth_phy_connect_index	120	static
+mdio-uclass.c:225:20:dm_eth_phy_connect	0	static

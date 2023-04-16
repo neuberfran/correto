@@ -1,0 +1,1 @@
+cmd_spl/drivers/mmc/built-in.o :=  /opt/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o spl/drivers/mmc/built-in.o spl/drivers/mmc/mmc.o spl/drivers/mmc/mmc_legacy.o spl/drivers/mmc/mmc_boot.o spl/drivers/mmc/fsl_esdhc_imx.o 

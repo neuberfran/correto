@@ -1,0 +1,15 @@
+root.c:221:12:dm_scan_fdt_node	24	static
+root.c:35:17:dm_root	8	static
+root.c:45:6:dm_fixup_for_gd_move	0	static
+root.c:54:6:fix_drivers	8	static
+root.c:87:6:fix_uclass	8	static
+root.c:119:6:fix_devices	8	static
+root.c:132:5:dm_init	8	static
+root.c:164:5:dm_uninit	8	static
+root.c:176:5:dm_remove_devices_flags	8	static
+root.c:184:5:dm_scan_plat	8	static
+root.c:252:5:dm_scan_fdt_dev	0	static
+root.c:258:5:dm_scan_fdt	0	static
+root.c:272:5:dm_extended_scan	32	static
+root.c:301:12:dm_scan_other	0	static
+root.c:341:5:dm_init_and_scan	8	static

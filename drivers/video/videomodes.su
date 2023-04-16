@@ -1,0 +1,8 @@
+videomodes.c:119:1:video_get_param_len.constprop	0	static
+videomodes.c:159:5:video_get_params	32	static
+videomodes.c:236:5:video_get_video_mode	32	static
+videomodes.c:294:6:video_get_ctfb_res_modes	64	static
+videomodes.c:333:6:video_get_option_string	32	static
+videomodes.c:364:5:video_get_option_int	24	static
+videomodes.c:389:5:video_edid_dtd_to_ctfb_res_modes	24	static
+videomodes.c:449:6:video_ctfb_mode_to_display_timing	0	static

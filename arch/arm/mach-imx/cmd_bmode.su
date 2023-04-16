@@ -1,0 +1,4 @@
+cmd_bmode.c:31:12:create_usage	32	static
+cmd_bmode.c:62:12:boot_mode_getprisec	0	static
+cmd_bmode.c:67:12:do_boot_mode	24	static
+cmd_bmode.c:97:6:add_board_boot_modes	16	static
