@@ -1,4 +1,0 @@
-bouncebuf.c:16:12:addr_aligned	0	static
-bouncebuf.c:36:5:bounce_buffer_start_extalign	16	static
-bouncebuf.c:69:5:bounce_buffer_start	16	static
-bouncebuf.c:77:5:bounce_buffer_stop	8	static

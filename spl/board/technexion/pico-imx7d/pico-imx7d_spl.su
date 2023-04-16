@@ -1,3 +1,0 @@
-pico-imx7d_spl.c:141:6:board_init_f	8	static
-pico-imx7d_spl.c:174:5:board_mmc_getcd	0	static
-pico-imx7d_spl.c:180:5:board_mmc_init	8	static

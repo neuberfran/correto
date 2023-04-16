@@ -1,8 +1,0 @@
-misc.c:126:13:set_dt_val	16	static
-misc.c:26:5:mxs_wait_mask_set	16	static
-misc.c:38:5:mxs_wait_mask_clr	16	static
-misc.c:50:5:mxs_reset_block	16	static
-misc.c:91:6:board_lmb_reserve	0	static
-misc.c:113:6:configure_tzc380	0	static
-misc.c:139:5:add_dt_path_subnode	16	static
-misc.c:153:5:add_res_mem_dt_node	160	static

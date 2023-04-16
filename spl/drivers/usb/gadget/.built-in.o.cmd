@@ -1,1 +1,0 @@
-cmd_spl/drivers/usb/gadget/built-in.o :=  /opt/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-ld.bfd     -r -o spl/drivers/usb/gadget/built-in.o spl/drivers/usb/gadget/epautoconf.o spl/drivers/usb/gadget/config.o spl/drivers/usb/gadget/usbstring.o spl/drivers/usb/gadget/g_dnl.o spl/drivers/usb/gadget/f_sdp.o spl/drivers/usb/gadget/ci_udc.o 
